@@ -1,0 +1,22 @@
+Test Node
+id[halt],hex[0]
+id[halt],hex[0]
+Test ErrorMessage: <2
+generic error
+at line 1, character 1
+generic error
+at line1, character 1
+Test One: <3
+0
+13
+d
+Test One: <3
+0
+13
+d
+Test Position
+p1[1,1]
+p1[1,1]
+Test Two
+2
+1

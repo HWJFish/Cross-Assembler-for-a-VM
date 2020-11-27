@@ -16,7 +16,7 @@ public class TestSymbolTable {
     i1.setMnemonic(m1);
     Label l1 =  new Label();
     Comment c1 = new Comment();
-    EOL e1 = new EOL();
+
 
     Linestatement ls1 = new Linestatement();
     ls1.setInstruction(i1);
