@@ -1,4 +1,5 @@
-package assembler;
+package test;
+import assembler.*;
 
 public class TestErrorReporter {
 	static ErrorReporter errep = new ErrorReporter();

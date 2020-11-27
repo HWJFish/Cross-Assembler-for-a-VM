@@ -1,4 +1,5 @@
-package Tests;
+package test;
+import assembler.*;
 
 import java.io.IOException;
 

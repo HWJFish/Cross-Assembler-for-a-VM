@@ -1,5 +1,5 @@
-
-package assembler;
+package test;
+import assembler.*;
 import java.io.*;
 
 public class TestSymbolTable {

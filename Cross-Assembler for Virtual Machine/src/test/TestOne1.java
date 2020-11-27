@@ -1,4 +1,5 @@
-package Tests;
+package test;
+import assembler.*;
 
 public class TestOne1 {
 

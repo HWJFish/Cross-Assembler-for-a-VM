@@ -1,4 +1,5 @@
-package assembler;
+package test;
+import assembler.*;
 
 public class TestErrorMessage {
 	static Position p = new Position (1, 1);
